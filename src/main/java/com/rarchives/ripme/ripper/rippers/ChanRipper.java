@@ -30,6 +30,7 @@ public class ChanRipper extends AbstractHTMLRipper {
             new ChanSite("7chan.org"),
             new ChanSite("desuarchive.org", "desu-usergeneratedcontent.xyz"),
             new ChanSite("8ch.net", "media.8ch.net"),
+            new ChanSite("8kun.top", "media.8kun.top"),
             new ChanSite("thebarchive.com"),
             new ChanSite("archiveofsins.com"),
             new ChanSite("archive.nyafuu.org"),
